@@ -26,19 +26,6 @@
 
 ---
 
-<h2>Github stats :bar_chart:</h2>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=JatinPhogat&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=JatinPhogat&theme=react" />
-</p>
-
-<p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=JatinPhogat&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/JatinPhogat/github-stats">
-</p>
-
----
-
 ### 🔗 Social info
 
 <div id="badges">
