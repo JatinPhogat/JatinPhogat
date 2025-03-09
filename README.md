@@ -7,9 +7,7 @@
 <div style="display:flex">
   
 - 😄 Pronouns: He/Him
-- 🔭 I am an aspiring Full Stack Developer
-- 📫 I am currently a B-Tech CSE second year student
-- 🌱 I am currently learning JavaScript and other full-stack tools.
+- 🔭 I am an aspiring AI/ML Developer
 - 💬 I read books in free time
 - ⚡ Open source enthusiast
 
