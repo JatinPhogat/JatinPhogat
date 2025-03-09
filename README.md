@@ -1,5 +1,5 @@
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi there 👋,+I'm+Jatin,+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi there 👋,+I'm+Jatin,+Welcome+to+My+Profile!+;Always+learning+new+things" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -21,7 +21,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,js,typescript,cpp,mongodb,nodejs,express,jquery,postgres,html,css,git,github,vscode,bootstrap,tailwind&perline=8">
+  <img src="https://skillicons.dev/icons?i=react,cpp,nodejs,html,css,git,github,vscode,bootstrap">
 </p>
 
 ---
