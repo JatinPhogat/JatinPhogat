@@ -7,7 +7,7 @@
 <div style="display:flex">
   
 - 😄 Pronouns: He/Him
-- 🔭 I am an aspiring AI/ML Developer
+- 🔭 AI Software Developer
 - 💬 I read books in free time
 - ⚡ Open source enthusiast
 
