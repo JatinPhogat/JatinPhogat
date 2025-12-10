@@ -1,12 +1,13 @@
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi there 👋,+I'm+Jatin,+Welcome+to+My+Profile!+;Always+learning+new+things" alt="Typing SVG" /></a>
+  
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
 </div>
 
 ---
 
 <div style="display:flex">
   
-- 😄 Pronouns: He/Him
 - 🔭 AI Software Developer
 - 💬 I read books in free time
 - ⚡ Open source enthusiast
@@ -21,7 +22,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,cpp,nodejs,html,css,git,github,vscode,bootstrap">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,r,regex,pkl,python,react,flask,nodejs,mysql,postgres,sqlite,mongodb,pytorch,tensorflow,opencv,ai,docker,aws,linux,powershell,git,github,vscode,postman,figma,firebase,discord,gmail">
 </p>
 
 ---
@@ -40,4 +41,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
