@@ -1,18 +1,36 @@
-<div>
-  
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-</div>
-
 ---
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <a href="img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Jatin's GitHub Avatar" width="60px"/> Jatin </a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
+</h1>
 
-<div style="display:flex">
+
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
+
+
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Haryana, India </strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:danielcela.contact@gmail.com"><strong>phogatjassu09@gmail.com</strong></a>
+  </li>
+    <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student Emoji" width="25px" align="center" />
+    <strong>Currently looking for opportunities in <strong>Software Developer and AI Developer roles</strong>
   
-- 🔭 AI Software Developer
-- 💬 I read books in free time
-- ⚡ Open source enthusiast
-
-</div>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>AI-powered Full-Stack apps</strong> using modern web technologies
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
+  </li>
+</ul>
 
 ---
 
@@ -26,6 +44,13 @@
 </p>
 
 ---
+
+<div>
+  
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+</div>
+
 
 ### 🔗 Social info
 
@@ -41,3 +66,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
