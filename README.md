@@ -39,8 +39,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,r,regex,pkl,python,react,flask,nodejs,mysql,postgres,sqlite,mongodb,pytorch,tensorflow,opencv,ai,docker,aws,linux,powershell,git,github,vscode,postman,figma,firebase,discord">
 </p>
 
----
-
 <div>
   
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
