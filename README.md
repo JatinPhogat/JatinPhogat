@@ -14,15 +14,11 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Haryana, India </strong>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:danielcela.contact@gmail.com"><strong>phogatjassu09@gmail.com</strong></a>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:phogatjassu09@gmail.com"><strong>phogatjassu09@gmail.com</strong></a>
   </li>
     <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student Emoji" width="25px" align="center" />
-    <strong>Currently looking for opportunities in <strong>Software Developer and AI Developer roles</strong>
-  
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>AI-powered Full-Stack apps</strong> using modern web technologies
+    <strong>Currently building <strong>AI-powered Full-Stack apps</strong> using modern web technologies</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
@@ -40,7 +36,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,r,regex,pkl,python,react,flask,nodejs,mysql,postgres,sqlite,mongodb,pytorch,tensorflow,opencv,ai,docker,aws,linux,powershell,git,github,vscode,postman,figma,firebase,discord,gmail">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,r,regex,pkl,python,react,flask,nodejs,mysql,postgres,sqlite,mongodb,pytorch,tensorflow,opencv,ai,docker,aws,linux,powershell,git,github,vscode,postman,figma,firebase,discord">
 </p>
 
 ---
